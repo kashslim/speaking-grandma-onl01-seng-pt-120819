@@ -1,1 +1,1 @@
-speak_to_grandma arg(phrase)
+def speak_to_grandma arg(phrase)
